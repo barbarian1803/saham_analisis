@@ -1,0 +1,539 @@
+Kode;Nama;Bidang
+AALI;Astra Agro Lestari Tbk.;Pertanian
+ANJT;Austindo Nusantara Jaya Tbk.;Pertanian
+BISI;BISI International Tbk.;Pertanian
+BTEK;Bumi Teknokultura Unggul Tbk;Pertanian
+BWPT;Eagle High Plantations Tbk.;Pertanian
+CPRO;Central Proteina Prima Tbk.;Pertanian
+DSFI;Dharma Samudera Fishing Indust;Pertanian
+DSNG;Dharma Satya Nusantara Tbk.;Pertanian
+GOLL;Golden Plantation Tbk.;Pertanian
+GZCO;Gozco Plantations Tbk.;Pertanian
+IIKP;Inti Agri Resources Tbk;Pertanian
+JAWA;Jaya Agra Wattie Tbk.;Pertanian
+LSIP;PP London Sumatra Indonesia Tb;Pertanian
+MAGP;Multi Agro Gemilang Plantation;Pertanian
+PALM;Provident Agro Tbk.;Pertanian
+SGRO;Sampoerna Agro Tbk.;Pertanian
+SIMP;Salim Ivomas Pratama Tbk.;Pertanian
+SMAR;Smart Tbk.;Pertanian
+SSMS;Sawit Sumbermas Sarana Tbk.;Pertanian
+TBLA;Tunas Baru Lampung Tbk.;Pertanian
+UNSP;Bakrie Sumatra Plantations Tbk;Pertanian
+ACST;Acset Indonusa Tbk.;Properti
+ADHI;Adhi Karya (Persero) Tbk.;Properti
+APLN;Agung Podomoro Land Tbk.;Properti
+ASRI;Alam Sutera Realty Tbk.;Properti
+BAPA;Bekasi Asri Pemula Tbk.;Properti
+BCIP;Bumi Citra Permai Tbk.;Properti
+BEST;Bekasi Fajar Industrial Estate;Properti
+BIKA;Binakarya Jaya Abadi Tbk.;Properti
+BIPP;Bhuwanatala Indah Permai Tbk.;Properti
+BKDP;Bukit Darmo Property Tbk;Properti
+BKSL;Sentul City Tbk.;Properti
+BSDE;Bumi Serpong Damai Tbk.;Properti
+COWL;Cowell Development Tbk.;Properti
+CTRA;Ciputra Development Tbk.;Properti
+CTRP;Ciputra Property Tbk.;Properti
+CTRS;Ciputra Surya Tbk.;Properti
+DART;Duta Anggada Realty Tbk.;Properti
+DGIK;Nusa Konstruksi Enjiniring Tbk;Properti
+DILD;Intiland Development Tbk.;Properti
+DMAS;Puradelta Lestari Tbk.;Properti
+DUTI;Duta Pertiwi Tbk;Properti
+ELTY;Bakrieland Development Tbk.;Properti
+EMDE;Megapolitan Developments Tbk.;Properti
+FMII;Fortune Mate Indonesia Tbk;Properti
+GAMA;Gading Development Tbk.;Properti
+GMTD;Gowa Makassar Tourism Developm;Properti
+GPRA;Perdana Gapuraprima Tbk.;Properti
+GWSA;Greenwood Sejahtera Tbk.;Properti
+IDPR;Indonesia Pondasi Raya Tbk.;Properti
+JKON;Jaya Konstruksi Manggala Prata;Properti
+JRPT;Jaya Real Property Tbk.;Properti
+KIJA;Kawasan Industri Jababeka Tbk.;Properti
+LAMI;Lamicitra Nusantara Tbk.;Properti
+LCGP;Eureka Prima Jakarta Tbk.;Properti
+LPCK;Lippo Cikarang Tbk;Properti
+LPKR;Lippo Karawaci Tbk.;Properti
+MDLN;Modernland Realty Tbk.;Properti
+MKPI;Metropolitan Kentjana Tbk.;Properti
+MMLP;Mega Manunggal Property Tbk.;Properti
+MTLA;Metropolitan Land Tbk.;Properti
+MTRA;Mitra Pemuda Tbk.;Properti
+MTSM;Metro Realty Tbk.;Properti
+MYRX;Hanson International Tbk.;Properti
+MYRXP;Saham Seri B Hanson Internatio;Properti
+NIRO;Nirvana Development Tbk.;Properti
+NRCA;Nusa Raya Cipta Tbk.;Properti
+OMRE;Indonesia Prima Property Tbk;Properti
+PBSA;Paramita Bangun Sarana Tbk.;Properti
+PLIN;Plaza Indonesia Realty Tbk.;Properti
+PPRO;PP Properti Tbk.;Properti
+PTPP;PP (Persero) Tbk.;Properti
+PWON;Pakuwon Jati Tbk.;Properti
+RBMS;Ristia Bintang Mahkotasejati T;Properti
+RDTX;Roda Vivatex Tbk;Properti
+RODA;Pikko Land Development Tbk.;Properti
+SCBD;Danayasa Arthatama Tbk.;Properti
+SMDM;Suryamas Dutamakmur Tbk.;Properti
+SMRA;Summarecon Agung Tbk.;Properti
+SSIA;Surya Semesta Internusa Tbk.;Properti
+TARA;Sitara Propertindo Tbk.;Properti
+TOTL;Total Bangun Persada Tbk.;Properti
+WIKA;Wijaya Karya (Persero) Tbk.;Properti
+WSKT;Waskita Karya (Persero) Tbk.;Properti
+AGII;Aneka Gas Industri Tbk.;Dasar Kimia
+AKPI;Argha Karya Prima Industry Tbk;Dasar Kimia
+ALDO;Alkindo Naratama Tbk.;Dasar Kimia
+ALKA;Alakasa Industrindo Tbk;Dasar Kimia
+ALMI;Alumindo Light Metal Industry;Dasar Kimia
+AMFG;Asahimas Flat Glass Tbk.;Dasar Kimia
+APLI;Asiaplast Industries Tbk.;Dasar Kimia
+ARNA;Arwana Citramulia Tbk.;Dasar Kimia
+BAJA;Saranacentral Bajatama Tbk.;Dasar Kimia
+BRNA;Berlina Tbk.;Dasar Kimia
+BRPT;Barito Pacific Tbk.;Dasar Kimia
+BTON;Betonjaya Manunggal Tbk.;Dasar Kimia
+CPIN;Charoen Pokphand Indonesia Tbk;Dasar Kimia
+CTBN;Citra Tubindo Tbk.;Dasar Kimia
+DAJK;Dwi Aneka Jaya Kemasindo Tbk.;Dasar Kimia
+DPNS;Duta Pertiwi Nusantara Tbk.;Dasar Kimia
+EKAD;Ekadharma International Tbk.;Dasar Kimia
+ETWA;Eterindo Wahanatama Tbk;Dasar Kimia
+FASW;Fajar Surya Wisesa Tbk.;Dasar Kimia
+FPNI;Lotte Chemical Titan Tbk.;Dasar Kimia
+GDST;Gunawan Dianjaya Steel Tbk.;Dasar Kimia
+IGAR;Champion Pacific Indonesia Tbk;Dasar Kimia
+IKAI;Intikeramik Alamasri Industri;Dasar Kimia
+IMPC;Impack Pratama Industri Tbk.;Dasar Kimia
+INAI;Indal Aluminium Industry Tbk.;Dasar Kimia
+INCF;Indo Komoditi Korpora Tbk.;Dasar Kimia
+INCI;Intanwijaya Internasional Tbk;Dasar Kimia
+INKP;Indah Kiat Pulp & Paper Tbk.;Dasar Kimia
+INRU;Toba Pulp Lestari Tbk.;Dasar Kimia
+INTP;Indocement Tunggal Prakarsa Tb;Dasar Kimia
+IPOL;Indopoly Swakarsa Industry Tbk;Dasar Kimia
+ISSP;Steel Pipe Industry of Indones;Dasar Kimia
+JKSW;Jakarta Kyoei Steel Works Tbk.;Dasar Kimia
+JPFA;Japfa Comfeed Indonesia Tbk.;Dasar Kimia
+JPRS;Jaya Pari Steel Tbk;Dasar Kimia
+KBRI;Kertas Basuki Rachmat Indonesi;Dasar Kimia
+KDSI;Kedawung Setia Industrial Tbk.;Dasar Kimia
+KIAS;Keramika Indonesia Assosiasi T;Dasar Kimia
+KRAS;Krakatau Steel (Persero) Tbk.;Dasar Kimia
+LION;Lion Metal Works Tbk.;Dasar Kimia
+LMSH;Lionmesh Prima Tbk.;Dasar Kimia
+MAIN;Malindo Feedmill Tbk.;Dasar Kimia
+MLIA;Mulia Industrindo Tbk;Dasar Kimia
+NIKL;Pelat Timah Nusantara Tbk.;Dasar Kimia
+PICO;Pelangi Indah Canindo Tbk;Dasar Kimia
+SIAP;Sekawan Intipratama Tbk;Dasar Kimia
+SIMA;Siwani Makmur Tbk;Dasar Kimia
+SIPD;Sierad Produce Tbk.;Dasar Kimia
+SMBR;Semen Baturaja (Persero) Tbk.;Dasar Kimia
+SMCB;Holcim Indonesia Tbk.;Dasar Kimia
+SMGR;Semen Indonesia (Persero) Tbk.;Dasar Kimia
+SOBI;Sorini Agro Asia Corporindo Tb;Dasar Kimia
+SPMA;Suparma Tbk.;Dasar Kimia
+SRSN;Indo Acidatama Tbk;Dasar Kimia
+SULI;SLJ Global Tbk.;Dasar Kimia
+TALF;Tunas Alfin Tbk.;Dasar Kimia
+TBMS;Tembaga Mulia Semanan Tbk.;Dasar Kimia
+TIRT;Tirta Mahakam Resources Tbk;Dasar Kimia
+TKIM;Pabrik Kertas Tjiwi Kimia Tbk.;Dasar Kimia
+TOTO;Surya Toto Indonesia Tbk.;Dasar Kimia
+TPIA;Chandra Asri Petrochemical Tbk;Dasar Kimia
+TRST;Trias Sentosa Tbk.;Dasar Kimia
+UNIC;Unggul Indah Cahaya Tbk.;Dasar Kimia
+WSBP;Waskita Beton Precast Tbk.;Dasar Kimia
+WTON;Wijaya Karya Beton Tbk.;Dasar Kimia
+YPAS;Yanaprima Hastapersada Tbk;Dasar Kimia
+ADMG;Polychem Indonesia Tbk;Lainnya
+AMIN;Ateliers Mecaniques D Indonesi;Lainnya
+ARGO;Argo Pantes Tbk;Lainnya
+ASII;Astra International Tbk.;Lainnya
+AUTO;Astra Otoparts Tbk.;Lainnya
+BATA;Sepatu Bata Tbk.;Lainnya
+BIMA;Primarindo Asia Infrastructure;Lainnya
+BOLT;Garuda Metalindo Tbk.;Lainnya
+BRAM;Indo Kordsa Tbk.;Lainnya
+CNTB;Saham Seri B ( Centex Tbk );Lainnya
+CNTX;Century Textile Industry Tbk.;Lainnya
+ERTX;Eratex Djaja Tbk.;Lainnya
+ESTI;Ever Shine Tex Tbk.;Lainnya
+GDYR;Goodyear Indonesia Tbk.;Lainnya
+GJTL;Gajah Tunggal Tbk.;Lainnya
+HDTX;Panasia Indo Resources Tbk.;Lainnya
+IKBI;Sumi Indo Kabel Tbk.;Lainnya
+IMAS;Indomobil Sukses Internasional;Lainnya
+INDR;Indo-Rama Synthetics Tbk.;Lainnya
+INDS;Indospring Tbk.;Lainnya
+JECC;Jembo Cable Company Tbk.;Lainnya
+KBLI;KMI Wire & Cable Tbk.;Lainnya
+KBLM;Kabelindo Murni Tbk.;Lainnya
+KRAH;Grand Kartech Tbk.;Lainnya
+LPIN;Multi Prima Sejahtera Tbk;Lainnya
+MASA;Multistrada Arah Sarana Tbk.;Lainnya
+MYTX;Asia Pacific Investama Tbk.;Lainnya
+NIPS;Nipress Tbk.;Lainnya
+PBRX;Pan Brothers Tbk.;Lainnya
+POLY;Asia Pacific Fibers Tbk;Lainnya
+PRAS;Prima Alloy Steel Universal Tb;Lainnya
+PTSN;Sat Nusapersada Tbk;Lainnya
+RICY;Ricky Putra Globalindo Tbk;Lainnya
+SCCO;Supreme Cable Manufacturing &;Lainnya
+SMSM;Selamat Sempurna Tbk.;Lainnya
+SRIL;Sri Rejeki Isman Tbk.;Lainnya
+SSTM;Sunson Textile Manufacture Tbk;Lainnya
+STAR;Star Petrochem Tbk.;Lainnya
+TFCO;Tifico Fiber Indonesia Tbk.;Lainnya
+TRIS;Trisula International Tbk.;Lainnya
+UNIT;Nusantara Inti Corpora Tbk;Lainnya
+VOKS;Voksel Electric Tbk.;Lainnya
+ADRO;Adaro Energy Tbk.;Tambang
+ANTM;Aneka Tambang (Persero) Tbk.;Tambang
+APEX;Apexindo Pratama Duta Tbk.;Tambang
+ARII;Atlas Resources Tbk.;Tambang
+ARTI;Ratu Prabu Energi Tbk;Tambang
+ATPK;Bara Jaya Internasional Tbk.;Tambang
+BIPI;Benakat Integra Tbk.;Tambang
+BORN;Borneo Lumbung Energi & Metal;Tambang
+BRAU;Berau Coal Energy Tbk.;Tambang
+BSSR;Baramulti Suksessarana Tbk.;Tambang
+BUMI;Bumi Resources Tbk.;Tambang
+BYAN;Bayan Resources Tbk.;Tambang
+CITA;Cita Mineral Investindo Tbk.;Tambang
+CKRA;Cakra Mineral Tbk.;Tambang
+CTTH;Citatah Tbk.;Tambang
+DEWA;Darma Henwa Tbk;Tambang
+DKFT;Central Omega Resources Tbk.;Tambang
+DOID;Delta Dunia Makmur Tbk.;Tambang
+DSSA;Dian Swastatika Sentosa Tbk;Tambang
+ELSA;Elnusa Tbk.;Tambang
+ENRG;Energi Mega Persada Tbk.;Tambang
+ESSA;Surya Esa Perkasa Tbk.;Tambang
+GEMS;Golden Energy Mines Tbk.;Tambang
+GTBO;Garda Tujuh Buana Tbk;Tambang
+HRUM;Harum Energy Tbk.;Tambang
+INCO;Vale Indonesia Tbk.;Tambang
+ITMG;Indo Tambangraya Megah Tbk.;Tambang
+KKGI;Resource Alam Indonesia Tbk.;Tambang
+MBAP;Mitrabara Adiperdana Tbk.;Tambang
+MDKA;Merdeka Copper Gold Tbk.;Tambang
+MEDC;Medco Energi Internasional Tbk;Tambang
+MITI;Mitra Investindo Tbk.;Tambang
+MYOH;Samindo Resources Tbk.;Tambang
+PKPK;Perdana Karya Perkasa Tbk;Tambang
+PSAB;J Resources Asia Pasifik Tbk.;Tambang
+PTBA;Tambang Batubara Bukit Asam (P;Tambang
+PTRO;Petrosea Tbk.;Tambang
+RUIS;Radiant Utama Interinsco Tbk.;Tambang
+SMMT;Golden Eagle Energy Tbk.;Tambang
+SMRU;SMR Utama Tbk.;Tambang
+TINS;Timah (Persero) Tbk.;Tambang
+TKGA;Permata Prima Sakti Tbk.;Tambang
+TOBA;Toba Bara Sejahtra Tbk.;Tambang
+ADES;Akasha Wira International Tbk.;Konsumsi
+AISA;Tiga Pilar Sejahtera Food Tbk.;Konsumsi
+ALTO;Tri Banyan Tirta Tbk.;Konsumsi
+BUDI;Budi Starch & Sweetener Tbk.;Konsumsi
+CEKA;Wilmar Cahaya Indonesia Tbk.;Konsumsi
+CINT;Chitose Internasional Tbk.;Konsumsi
+DLTA;Delta Djakarta Tbk.;Konsumsi
+DVLA;Darya-Varia Laboratoria Tbk.;Konsumsi
+GGRM;Gudang Garam Tbk.;Konsumsi
+HMSP;H.M. Sampoerna Tbk.;Konsumsi
+ICBP;Indofood CBP Sukses Makmur Tbk;Konsumsi
+INAF;Indofarma Tbk.;Konsumsi
+INDF;Indofood Sukses Makmur Tbk.;Konsumsi
+KAEF;Kimia Farma Tbk.;Konsumsi
+KICI;Kedaung Indah Can Tbk;Konsumsi
+KINO;Kino Indonesia Tbk.;Konsumsi
+KLBF;Kalbe Farma Tbk.;Konsumsi
+LMPI;Langgeng Makmur Industri Tbk.;Konsumsi
+MBTO;Martina Berto Tbk.;Konsumsi
+MERK;Merck Tbk.;Konsumsi
+MLBI;Multi Bintang Indonesia Tbk.;Konsumsi
+MRAT;Mustika Ratu Tbk.;Konsumsi
+MYOR;Mayora Indah Tbk.;Konsumsi
+PSDN;Prasidha Aneka Niaga Tbk;Konsumsi
+PYFA;Pyridam Farma Tbk;Konsumsi
+RMBA;Bentoel Internasional Investam;Konsumsi
+ROTI;Nippon Indosari Corpindo Tbk.;Konsumsi
+SCPI;Merck Sharp Dohme Pharma Tbk.;Konsumsi
+SIDO;Industri Jamu dan Farmasi Sido;Konsumsi
+SKBM;Sekar Bumi Tbk.;Konsumsi
+SKLT;Sekar Laut Tbk.;Konsumsi
+SQBB;Taisho Pharmaceutical Indonesi;Konsumsi
+SQBI;Taisho Pharmaceutical Indonesi;Konsumsi
+STTP;Siantar Top Tbk.;Konsumsi
+TCID;Mandom Indonesia Tbk.;Konsumsi
+TSPC;Tempo Scan Pacific Tbk.;Konsumsi
+ULTJ;Ultra Jaya Milk Industry & Tra;Konsumsi
+UNVR;Unilever Indonesia Tbk.;Konsumsi
+WIIM;Wismilak Inti Makmur Tbk.;Konsumsi
+APOL;Arpeni Pratama Ocean Line Tbk.;Transportasi
+ASSA;Adi Sarana Armada Tbk.;Transportasi
+BALI;Bali Towerindo Sentra Tbk.;Transportasi
+BBRM;Pelayaran Nasional Bina Buana;Transportasi
+BIRD;Blue Bird Tbk.;Transportasi
+BLTA;Berlian Laju Tanker Tbk;Transportasi
+BTEL;Bakrie Telecom Tbk.;Transportasi
+BUKK;Bukaka Teknik Utama Tbk.;Transportasi
+BULL;Buana Listya Tama Tbk.;Transportasi
+CANI;Capitol Nusantara Indonesia Tb;Transportasi
+CASS;Cardig Aero Services Tbk.;Transportasi
+CMNP;Citra Marga Nusaphala Persada;Transportasi
+CPGT;Citra Maharlika Nusantara Corp;Transportasi
+EXCL;XL Axiata Tbk.;Transportasi
+FREN;Smartfren Telecom Tbk.;Transportasi
+GIAA;Garuda Indonesia (Persero) Tbk;Transportasi
+HITS;Humpuss Intermoda Transportasi;Transportasi
+IATA;Indonesia Transport & Infrastr;Transportasi
+IBST;Inti Bangun Sejahtera Tbk.;Transportasi
+INDX;Tanah Laut Tbk;Transportasi
+INDY;Indika Energy Tbk.;Transportasi
+INVS;Inovisi Infracom Tbk.;Transportasi
+ISAT;Indosat Tbk.;Transportasi
+JSMR;Jasa Marga (Persero) Tbk.;Transportasi
+KARW;ICTSI Jasa Prima Tbk.;Transportasi
+KOPI;Mitra Energi Persada Tbk.;Transportasi
+LAPD;Leyand International Tbk.;Transportasi
+LEAD;Logindo Samudramakmur Tbk.;Transportasi
+LRNA;Eka Sari Lorena Transport Tbk.;Transportasi
+MBSS;Mitrabahtera Segara Sejati Tbk;Transportasi
+META;Nusantara Infrastructure Tbk.;Transportasi
+MIRA;Mitra International Resources;Transportasi
+NELY;Pelayaran Nelly Dwi Putri Tbk.;Transportasi
+OASA;Protech Mitra Perkasa Tbk.;Transportasi
+PGAS;Perusahaan Gas Negara (Persero;Transportasi
+POWR;Cikarang Listrindo Tbk.;Transportasi
+PTIS;Indo Straits Tbk.;Transportasi
+RAJA;Rukun Raharja Tbk.;Transportasi
+RIGS;Rig Tenders Indonesia Tbk.;Transportasi
+SAFE;Steady Safe Tbk;Transportasi
+SDMU;Sidomulyo Selaras Tbk.;Transportasi
+SHIP;Sillo Maritime Perdana Tbk.;Transportasi
+SMDR;Samudera Indonesia Tbk.;Transportasi
+SOCI;Soechi Lines Tbk.;Transportasi
+SUPR;Solusi Tunas Pratama Tbk.;Transportasi
+TAXI;Express Transindo Utama Tbk.;Transportasi
+TBIG;Tower Bersama Infrastructure T;Transportasi
+TLKM;Telekomunikasi Indonesia (Pers;Transportasi
+TMAS;Pelayaran Tempuran Emas Tbk.;Transportasi
+TOWR;Sarana Menara Nusantara Tbk.;Transportasi
+TPMA;Trans Power Marine Tbk.;Transportasi
+TRAM;Trada Maritime Tbk.;Transportasi
+TRUB;Truba Alam Manunggal Engineeri;Transportasi
+WEHA;WEHA Transportasi Indonesia Tb;Transportasi
+WINS;Wintermar Offshore Marine Tbk.;Transportasi
+ZBRA;Zebra Nusantara Tbk;Transportasi
+ABDA;Asuransi Bina Dana Arta Tbk.;Keuangan
+ADMF;Adira Dinamika Multi Finance T;Keuangan
+AGRO;Bank Rakyat Indonesia Agroniag;Keuangan
+AGRS;Bank Agris Tbk.;Keuangan
+AHAP;Asuransi Harta Aman Pratama Tb;Keuangan
+AKSI;Majapahit Inti Corpora Tbk.;Keuangan
+AMAG;Asuransi Multi Artha Guna Tbk.;Keuangan
+APIC;Pacific Strategic Financial Tb;Keuangan
+ARTO;Bank Artos Indonesia Tbk.;Keuangan
+ASBI;Asuransi Bintang Tbk.;Keuangan
+ASDM;Asuransi Dayin Mitra Tbk.;Keuangan
+ASJT;Asuransi Jasa Tania Tbk.;Keuangan
+ASMI;Asuransi Kresna Mitra Tbk.;Keuangan
+ASRM;Asuransi Ramayana Tbk.;Keuangan
+BABP;Bank MNC Internasional Tbk.;Keuangan
+BACA;Bank Capital Indonesia Tbk.;Keuangan
+BBCA;Bank Central Asia Tbk.;Keuangan
+BBHI;Bank Harda Internasional Tbk.;Keuangan
+BBKP;Bank Bukopin Tbk.;Keuangan
+BBLD;Buana Finance Tbk.;Keuangan
+BBMD;Bank Mestika Dharma Tbk.;Keuangan
+BBNI;Bank Negara Indonesia (Persero;Keuangan
+BBNP;Bank Nusantara Parahyangan Tbk;Keuangan
+BBRI;Bank Rakyat Indonesia (Persero;Keuangan
+BBTN;Bank Tabungan Negara (Persero);Keuangan
+BBYB;Bank Yudha Bhakti Tbk.;Keuangan
+BCAP;MNC Kapital Indonesia Tbk.;Keuangan
+BCIC;Bank JTrust Indonesia Tbk.;Keuangan
+BDMN;Bank Danamon Indonesia Tbk.;Keuangan
+BEKS;Bank Pundi Indonesia Tbk.;Keuangan
+BFIN;BFI Finance Indonesia Tbk.;Keuangan
+BGTG;Bank Ganesha Tbk.;Keuangan
+BINA;Bank Ina Perdana Tbk.;Keuangan
+BJBR;Bank Pembangunan Daerah Jawa B;Keuangan
+BJTM;Bank Pembangunan Daerah Jawa T;Keuangan
+BKSW;Bank QNB Indonesia Tbk.;Keuangan
+BMAS;Bank Maspion Indonesia Tbk.;Keuangan
+BMRI;Bank Mandiri (Persero) Tbk.;Keuangan
+BNBA;Bank Bumi Arta Tbk.;Keuangan
+BNII;Bank Maybank Indonesia Tbk.;Keuangan
+BNLI;Bank Permata Tbk.;Keuangan
+BPFI;Batavia Prosperindo Finance Tb;Keuangan
+BPII;Batavia Prosperindo Internasio;Keuangan
+BSIM;Bank Sinarmas Tbk.;Keuangan
+BSWD;Bank Of India Indonesia Tbk.;Keuangan
+BTPN;Bank Tabungan Pensiunan Nasion;Keuangan
+BVIC;Bank Victoria International Tb;Keuangan
+CASA;Capital Financial Indonesia Tb;Keuangan
+CFIN;Clipan Finance Indonesia Tbk.;Keuangan
+DEFI;Danasupra Erapacific Tbk;Keuangan
+DNAR;Bank Dinar Indonesia Tbk.;Keuangan
+GSMF;Equity Development Investment;Keuangan
+HADE;HD Capital Tbk;Keuangan
+HDFA;Radana Bhaskara Finance Tbk.;Keuangan
+IBFN;Intan Baruprana Finance Tbk.;Keuangan
+IMJS;Indomobil Multi Jasa Tbk.;Keuangan
+INPC;Bank Artha Graha Internasional;Keuangan
+KREN;Kresna Graha Investama Tbk.;Keuangan
+LPGI;Lippo General Insurance Tbk.;Keuangan
+LPPS;Lippo Securities Tbk.;Keuangan
+MAYA;Bank Mayapada Internasional Tb;Keuangan
+MCOR;Bank Windu Kentjana Internatio;Keuangan
+MEGA;Bank Mega Tbk.;Keuangan
+MFIN;Mandala Multifinance Tbk.;Keuangan
+MGNA;Magna Finance Tbk.;Keuangan
+MREI;Maskapai Reasuransi Indonesia;Keuangan
+MTFN;Capitalinc Investment Tbk.;Keuangan
+NAGA;Bank Mitraniaga Tbk.;Keuangan
+NISP;Bank OCBC NISP Tbk.;Keuangan
+NOBU;Bank Nationalnobu Tbk.;Keuangan
+PADI;Minna Padi Investama Tbk.;Keuangan
+PANS;Panin Sekuritas Tbk.;Keuangan
+PEGE;Panca Global Securities Tbk.;Keuangan
+PNBN;Bank Pan Indonesia Tbk;Keuangan
+PNBS;Bank Panin Syariah Tbk.;Keuangan
+PNIN;Paninvest Tbk.;Keuangan
+PNLF;Panin Financial Tbk.;Keuangan
+RELI;Reliance Securities Tbk;Keuangan
+SDRA;Bank Woori Saudara Indonesia 1;Keuangan
+SMMA;Sinarmas Multiartha Tbk.;Keuangan
+TIFA;Tifa Finance Tbk.;Keuangan
+TRIM;Trimegah Sekuritas Indonesia T;Keuangan
+TRUS;Trust Finance Indonesia Tbk;Keuangan
+VICO;Victoria Investama Tbk.;Keuangan
+VINS;Victoria Insurance Tbk.;Keuangan
+VRNA;Verena Multi Finance Tbk.;Keuangan
+WOMF;Wahana Ottomitra Multiartha Tb;Keuangan
+YULE;Yulie Sekurindo Tbk;Keuangan
+ABBA;Mahaka Media Tbk.;Perdagangan
+ABMM;ABM Investama Tbk.;Perdagangan
+ACES;Ace Hardware Indonesia Tbk.;Perdagangan
+AIMS;Akbar Indo Makmur Stimec Tbk;Perdagangan
+AKKU;Alam Karya Unggul Tbk.;Perdagangan
+AKRA;AKR Corporindo Tbk.;Perdagangan
+AMRT;Sumber Alfaria Trijaya Tbk.;Perdagangan
+APII;Arita Prima Indonesia Tbk.;Perdagangan
+ARTA;Arthavest Tbk;Perdagangan
+ASGR;Astra Graphia Tbk.;Perdagangan
+ATIC;Anabatic Technologies Tbk.;Perdagangan
+BAYU;Bayu Buana Tbk;Perdagangan
+BHIT;MNC Investama Tbk.;Perdagangan
+BLTZ;Graha Layar Prima Tbk.;Perdagangan
+BMSR;Bintang Mitra Semestaraya Tbk;Perdagangan
+BMTR;Global Mediacom Tbk.;Perdagangan
+BNBR;Bakrie & Brothers Tbk;Perdagangan
+BRMS;Bumi Resources Minerals Tbk.;Perdagangan
+BUVA;Bukit Uluwatu Villa Tbk.;Perdagangan
+CENT;Centratama Telekomunikasi Indo;Perdagangan
+CLPI;Colorpak Indonesia Tbk.;Perdagangan
+CMPP;Rimau Multi Putra Pratama Tbk.;Perdagangan
+CNKO;Exploitasi Energi Indonesia Tb;Perdagangan
+CSAP;Catur Sentosa Adiprana Tbk.;Perdagangan
+DAYA;Duta Intidaya Tbk.;Perdagangan
+DNET;Indoritel Makmur Internasional;Perdagangan
+DPUM;Dua Putra Utama Makmur Tbk.;Perdagangan
+DYAN;Dyandra Media International Tb;Perdagangan
+ECII;Electronic City Indonesia Tbk.;Perdagangan
+EMTK;Elang Mahkota Teknologi Tbk.;Perdagangan
+EPMT;Enseval Putera Megatrading Tbk;Perdagangan
+ERAA;Erajaya Swasembada Tbk.;Perdagangan
+FAST;Fast Food Indonesia Tbk.;Perdagangan
+FISH;FKS Multi Agro Tbk.;Perdagangan
+FORU;Fortune Indonesia Tbk;Perdagangan
+GEMA;Gema Grahasarana Tbk.;Perdagangan
+GLOB;Global Teleshop Tbk.;Perdagangan
+GMCW;Grahamas Citrawisata Tbk.;Perdagangan
+GOLD;Visi Telekomunikasi Infrastruk;Perdagangan
+GREN;Evergreen Invesco Tbk.;Perdagangan
+HERO;Hero Supermarket Tbk.;Perdagangan
+HEXA;Hexindo Adiperkasa Tbk.;Perdagangan
+HOME;Hotel Mandarine Regency Tbk.;Perdagangan
+HOTL;Saraswati Griya Lestari Tbk.;Perdagangan
+ICON;Island Concepts Indonesia Tbk.;Perdagangan
+INPP;Indonesian Paradise Property T;Perdagangan
+INTA;Intraco Penta Tbk.;Perdagangan
+INTD;Inter Delta Tbk;Perdagangan
+ITMA;Sumber Energi Andalan Tbk.;Perdagangan
+ITTG;Leo Investments Tbk.;Perdagangan
+JGLE;Graha Andrasentra Propertindo;Perdagangan
+JIHD;Jakarta International Hotels &;Perdagangan
+JSPT;Jakarta Setiabudi Internasiona;Perdagangan
+JTPE;Jasuindo Tiga Perkasa Tbk.;Perdagangan
+KBLV;First Media Tbk.;Perdagangan
+KOBX;Kobexindo Tractors Tbk.;Perdagangan
+KOIN;Kokoh Inti Arebama Tbk;Perdagangan
+KONI;Perdana Bangun Pusaka Tbk;Perdagangan
+KPIG;MNC Land Tbk.;Perdagangan
+LINK;Link Net Tbk.;Perdagangan
+LMAS;Limas Indonesia Makmur Tbk;Perdagangan
+LPLI;Star Pacific Tbk;Perdagangan
+LPPF;Matahari Department Store Tbk.;Perdagangan
+LTLS;Lautan Luas Tbk.;Perdagangan
+MAMI;Mas Murni Indonesia Tbk;Perdagangan
+MAMIP;Mas Murni Tbk (Saham Preferen);Perdagangan
+MAPI;Mitra Adiperkasa Tbk.;Perdagangan
+MARI;Mahaka Radio Integra Tbk.;Perdagangan
+MDIA;Intermedia Capital Tbk.;Perdagangan
+MDRN;Modern Internasional Tbk.;Perdagangan
+MFMI;Multifiling Mitra Indonesia Tb;Perdagangan
+MICE;Multi Indocitra Tbk.;Perdagangan
+MIDI;Midi Utama Indonesia Tbk.;Perdagangan
+MIKA;Mitra Keluarga Karyasehat Tbk.;Perdagangan
+MKNT;Mitra Komunikasi Nusantara Tbk;Perdagangan
+MLPL;Multipolar Tbk.;Perdagangan
+MLPT;Multipolar Technology Tbk.;Perdagangan
+MNCN;Media Nusantara Citra Tbk.;Perdagangan
+MPMX;Mitra Pinasthika Mustika Tbk.;Perdagangan
+MPPA;Matahari Putra Prima Tbk.;Perdagangan
+MSKY;MNC Sky Vision Tbk.;Perdagangan
+MTDL;Metrodata Electronics Tbk.;Perdagangan
+OCAP;Onix Capital Tbk.;Perdagangan
+OKAS;Ancora Indonesia Resources Tbk;Perdagangan
+PANR;Panorama Sentrawisata Tbk.;Perdagangan
+PDES;Destinasi Tirta Nusantara Tbk;Perdagangan
+PGLI;Pembangunan Graha Lestari Inda;Perdagangan
+PJAA;Pembangunan Jaya Ancol Tbk.;Perdagangan
+PLAS;Polaris Investama Tbk;Perdagangan
+PNSE;Pudjiadi & Sons Tbk.;Perdagangan
+POOL;Pool Advista Indonesia Tbk.;Perdagangan
+PSKT;Red Planet Indonesia Tbk.;Perdagangan
+PTSP;Pioneerindo Gourmet Internatio;Perdagangan
+PUDP;Pudjiadi Prestige Tbk.;Perdagangan
+RALS;Ramayana Lestari Sentosa Tbk.;Perdagangan
+RANC;Supra Boga Lestari Tbk.;Perdagangan
+RIMO;Rimo International Lestari Tbk;Perdagangan
+SAME;Sarana Meditama Metropolitan T;Perdagangan
+SCMA;Surya Citra Media Tbk.;Perdagangan
+SDPC;Millennium Pharmacon Internati;Perdagangan
+SHID;Hotel Sahid Jaya International;Perdagangan
+SILO;Siloam International Hospitals;Perdagangan
+SKYB;Skybee Tbk.;Perdagangan
+SONA;Sona Topas Tourism Industry Tb;Perdagangan
+SQMI;Renuka Coalindo Tbk.;Perdagangan
+SRAJ;Sejahteraraya Anugrahjaya Tbk.;Perdagangan
+SRTG;Saratoga Investama Sedaya Tbk.;Perdagangan
+SUGI;Sugih Energy Tbk.;Perdagangan
+TELE;Tiphone Mobile Indonesia Tbk.;Perdagangan
+TGKA;Tigaraksa Satria Tbk.;Perdagangan
+TIRA;Tira Austenite Tbk;Perdagangan
+TMPI;Sigmagold Inti Perkasa Tbk.;Perdagangan
+TMPO;Tempo Intimedia Tbk.;Perdagangan
+TRIL;Triwira Insanlestari Tbk.;Perdagangan
+TRIO;Trikomsel Oke Tbk.;Perdagangan
+TURI;Tunas Ridean Tbk.;Perdagangan
+UNTR;United Tractors Tbk.;Perdagangan
+VIVA;Visi Media Asia Tbk.;Perdagangan
+WAPO;Wahana Pronatural Tbk.;Perdagangan
+WICO;Wicaksana Overseas Internation;Perdagangan
