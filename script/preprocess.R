@@ -1,18 +1,7 @@
 fileList <- list.files("data")
 metadata <- read.table("metadata/kode_sektor.csv",header=TRUE,sep=";",stringsAsFactors = FALSE)
 
-
-getLastdata <- function(v){
-  v[length(v)]
-}
-
-trimLast <- function(d){
-  x <- unlist(strsplit(d,"[.]"))
-  x[1]
-}
-
 date <- sapply(fileList,trimLast,USE.NAMES = FALSE)
-
 
 listHistory <- list()
 for( d in date){
@@ -38,8 +27,31 @@ mergedVol <- mergedAll[, grep("vol",colnames(mergedAll))]
 
 
 mergedPrice <- as.data.frame(t(mergedPrice))
-mergedPrice$date <- row.names(mergedPrice)
+row.names(mergedPrice) <- str_replace(row.names(mergedPrice),"price-","")
 
-ggplot(data=mergedPrice, aes(x=date, y=TLKM, group=1)) + geom_point()+geom_line()+xlab("")+ylab("")
-ggplot(data=mergedPrice, aes(x=date, y=ASII, group=1)) + geom_point()+geom_line()+xlab("")+ylab("")
-cor(mergedPrice$ASII,mergedPrice$TLKM)
+
+getLastdata <- function(v){
+  v[length(v)]
+}
+
+trimLast <- function(d){
+  x <- unlist(strsplit(d,"[.]"))
+  x[1]
+}
+
+calculateDiff <- function(saham){
+  Saham <- c(0)
+  for(i in 1:nrow(mergedPrice)-1){
+    Saham <- c(Saham,((mergedPrice[i+1,saham]-mergedPrice[i,saham])/mergedPrice[i,saham])*100)
+  }
+  return(Saham)
+}
+
+makeHist <- function(saham){
+  Saham <- calculateDiff(saham)
+  print(summary(Saham))
+  print(var(Saham))
+  boxplot(Saham)
+  hist(Saham,breaks = 100)
+  return(Saham)
+}
