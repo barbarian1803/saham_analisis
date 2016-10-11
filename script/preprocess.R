@@ -1,3 +1,4 @@
+library("stringr")
 fileList <- list.files("data")
 metadata <- read.table("metadata/kode_sektor.csv",header=TRUE,sep=";",stringsAsFactors = FALSE)
 
@@ -28,6 +29,8 @@ mergedVol <- mergedAll[, grep("vol",colnames(mergedAll))]
 
 mergedPrice <- as.data.frame(t(mergedPrice))
 row.names(mergedPrice) <- str_replace(row.names(mergedPrice),"price-","")
+
+mergedPrice <- mergedPrice[nrow(mergedPrice):1,]
 
 
 getLastdata <- function(v){
