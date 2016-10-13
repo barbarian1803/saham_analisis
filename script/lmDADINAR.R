@@ -25,6 +25,10 @@ cor(merged$DADINAR,merged$UNVR)
 cor(merged$DADINAR,merged$ICBP)
 cor(merged$DADINAR,merged$KLBF)
 
+
+
+
+
 x <- lm(formula=DADINAR~TLKM+ICBP+KLBF,data=merged)
 summary(x)
 round(coefficients(x),3)
@@ -36,3 +40,24 @@ summary(x)
 round(coefficients(x),3)
 
 coeff[1]+coeff[2]*4160+coeff[3]*8275+coeff[4]*44600+coeff[5]*9625+coeff[6]*1715
+
+
+
+
+
+
+JIImeta <- read.table("metadata/JII.csv",header=TRUE,sep = "\t",row.names = 2,stringsAsFactors = FALSE)
+JIIstock <- mergedPrice[,intersect(colnames(mergedPrice),rownames(JIImeta))]
+JIIPCA <- prcomp(JIIstock,scale. = TRUE,center = TRUE)
+plot(JIIPCA,type="l")
+summary(JIIPCA)
+Loadings <- as.data.frame(JIIPCA$rotation[,1:2])
+JIIPCA$rotation
+
+DADINARmerged <- merge(DADINAR,JIIstock,by = "row.names")
+row.names(DADINARmerged) <- DADINARmerged[,1]
+DADINARmerged<-DADINARmerged[,-c(1)]
+m <- scale(t(DADINARmerged[400:485,]))
+l <- dist(m)
+m <- hclust(l)
+plot(m)
