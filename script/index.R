@@ -15,6 +15,10 @@ changeDateFormat <- function(date){
   
 }
 
-n <- as.Date(row.names(JII)[1],format="%d-%h-%y")
-dates <- c("05/27/84", "07/07/05")
-betterDates <- as.Date(dates,format = "%m/%d/%y")
+row.names(JII) <- as.Date(row.names(JII),format="%d-%b-%y")
+JII <- subset(JII,select = c(4))
+dadinar <- read.table("RD/DADINAR.csv",header=FALSE,sep="\t",row.names = 1,stringsAsFactors = FALSE)
+row.names(dadinar) <- as.Date(row.names(dadinar),format="%d/%m/%Y")
+colnames(dadinar)<-"dadinar"
+merged <- merge(dadinar,JII,by="row.names")
+cor(merged$Close,merged$dadinar)
